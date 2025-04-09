@@ -1,3 +1,5 @@
+// Christos Chatziioannou // Final Project – Part I
+
 public class FinanceAccount {
 
     private String accountHolder;
